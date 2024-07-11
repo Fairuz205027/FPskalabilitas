@@ -4,11 +4,11 @@
 
 Fairuz Azhar A - 5027201059
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/feb3e241-4a24-49ca-97bd-e9294678876f/93ed65dc-dadc-421f-b9f9-e893a1a04cc7/Untitled.png)
+![alt text](https://github.com/Fairuz205027/FPskalabilitas/blob/main/gambar%201.jpg?raw=true)
 
 # Arsitektur
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/feb3e241-4a24-49ca-97bd-e9294678876f/fc3047b2-d44f-4c04-9b57-5ffc26839e70/Untitled.png)
+![alt text](https://github.com/Fairuz205027/FPskalabilitas/blob/main/gambar%202.jpg)?raw=true)
 
 ### Master
 
@@ -43,14 +43,14 @@ sudo apt-get install snapd
 sudo snap install microk8s --classic
 
 
-1. Atur Hak Akses Grup
+2. Atur Hak Akses Grup
 
 bash
 sudo usermod -a -G microk8s $USER
 sudo chown -f -R $USER ~/.kube
 
 
-1. Tambah Node 
+3. Tambah Node 
 
 bash
 microk8s add-node
