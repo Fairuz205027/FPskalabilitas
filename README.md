@@ -4,11 +4,12 @@
 
 Fairuz Azhar A - 5027201059
 
-![alt text](https://github.com/Fairuz205027/FPskalabilitas/blob/main/gambar%201.jpg?raw=true)
+![alt text](https://github.com/Fairuz205027/FPskalabilitas/blob/main/gambar%202.jpg)?raw=true)
+
 
 # Arsitektur
 
-![alt text](https://github.com/Fairuz205027/FPskalabilitas/blob/main/gambar%202.jpg)?raw=true)
+![alt text](https://github.com/Fairuz205027/FPskalabilitas/blob/main/gambar%201.jpg?raw=true)
 
 ### Master
 
