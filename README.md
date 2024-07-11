@@ -55,6 +55,9 @@ sudo chown -f -R $USER ~/.kube
 
 bash
 microk8s add-node
+melakukan nodes untuk menambah worker dengan mengirim invitain menggunakan micro8s
+
+![alt text](https://github.com/Fairuz205027/FPskalabilitas/blob/main/gambar%203.jpg?raw=true)
 
 
 1.
